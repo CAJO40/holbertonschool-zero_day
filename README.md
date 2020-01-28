@@ -1,4 +1,4 @@
-/*This is a respository of Cathy's 0 Day projects.*/
+# This is my 0 Day project
 # holbertonschool-zero_day
 # holbertonschool-zero_day
 # holbertonschool-zero_day
